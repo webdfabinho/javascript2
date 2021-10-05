@@ -31,5 +31,4 @@ function criaSegundaFrase(num1, num2) {
 
 	return `Sua soma é ${soma}, que é ${comparaDez} do que 10 e ${comparaVinte} do que 20.`;
 }
-
 console.log(comparaNumeros(10, 10));
